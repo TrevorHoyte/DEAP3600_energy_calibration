@@ -2,12 +2,12 @@
 Calibrates the Energy in the DEAP-3600 detector using AmBe runs
 
 
-This cde is devoted to recreating Trevor's Energy correction / time dependet B parameter.
+This code is devoted to recreating Trevor's Energy correction / time dependet B parameter.
 
 Please read the STR: https://www.overleaf.com/project/63ed02c58eb68364065b602a
 or the Analysis Notes FIrst before proceding: https://www.snolab.ca/deap/private/TWiki/bin/view/DEAP3/AnalysisNotex664
 
--TO start your going to need to put all the AmBe runs in to one directory. see the Skim directory for help
+-To start your going to need to put all the AmBe runs in to one directory. see the Skim directory for help
 
 GetB directory 
 
